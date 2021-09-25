@@ -1,0 +1,3 @@
+C:/Users/nodir/Documents/C Language/cmake-build-debug/CMakeFiles/C_Language.dir
+C:/Users/nodir/Documents/C Language/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nodir/Documents/C Language/cmake-build-debug/CMakeFiles/rebuild_cache.dir
